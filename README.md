@@ -6,7 +6,6 @@
 - Basic/Intermediate Computer Knowledge
 ## I Appear On
 - StackOverflow: teggolt
-- Twitter: @KaterNelio
 - Website: In development.
 
 <!---
